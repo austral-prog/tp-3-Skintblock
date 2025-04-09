@@ -13,7 +13,5 @@ def slice_simple():
     print(first_three.lower())
     print(middle_three.lower())
     print(first_four.lower() + last_three.lower())
-
-
 # Para verificar este ejercicio ejecutar el comando
 # `pytest tp3_slice_simple_test.py` o `python tp3_slice_simple_test.py`
