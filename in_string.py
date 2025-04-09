@@ -10,6 +10,5 @@ def check_vowels():
     print("Contiene i:", vocales[2] in nombre.lower())
     print("Contiene o:", vocales[3] in nombre.lower())
     print("Contiene u:", vocales[4] in nombre.lower())
-
 # Para verificar este ejercicio ejecutar el comando
 # `pytest tp3_in_string_test.py` o `python tp3_in_string_test.py`
